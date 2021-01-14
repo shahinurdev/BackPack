@@ -1,0 +1,104 @@
+/* header */
+*{
+    font-family: 'Anton', sans-serif;
+}
+.item-right{
+    margin-left: 60%;
+}
+.header-bg{
+    background-color:#FFFFF4 ;
+}
+.item-color .nav-link{
+    color: black;
+}
+.b-color{
+    color: #363958;
+}
+.c-moon{
+    color: #76C27E;
+}
+.b-color,.c-moon{
+    font-family: Bebas Neue;
+font-style: normal;
+font-weight: bold;
+font-size: 80px;
+line-height: 80px;
+
+}
+.buy-btn{
+    width: 150px;
+    background-color:#2A1E59;
+    height: 50px;
+    color: white;
+    border-radius: 10px;
+}
+.icon{
+   margin-right: 5px;
+}
+.buy-btn:hover{
+    color: white;
+}
+.side-img img{
+    width: 90%;
+}
+/* about */
+.about-size{
+    width: 450px;
+    padding: 17px 20px 5px 10px;
+    border-radius: 10px;
+}
+.resize{
+  
+}
+
+/* Casual backpack */
+.card-push{
+    border: 0;
+    border-radius: 1em;
+   
+}
+.footerCard{
+    border: 0;
+    background: white;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.bag{
+  margin: 20px 20px;
+    background-color: #F1F1F1;
+    border-radius: 15px;
+    padding: 20px 20px;
+}
+
+@media(max-width:600px){
+#about .about-size{ 
+        display: block;
+            margin-left: auto;
+            margin-right: auto;  
+    }
+}
+@media(max-width:600px){
+    #about .about-size h5,p{ 
+           margin: 10px;
+           font-size: small;
+            text-align: center;
+        }
+    }
+    @media(max-width:600px){
+        #about .about-size img{ 
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            
+            }
+        }
+        @media(max-width:600px){
+            #navbarNav{ 
+                
+                margin-right: 35%;
+                
+                }
+            }
+   
+        
