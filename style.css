@@ -47,9 +47,7 @@ line-height: 80px;
     padding: 17px 20px 5px 10px;
     border-radius: 10px;
 }
-.resize{
-  
-}
+
 
 /* Casual backpack */
 .card-push{
@@ -93,12 +91,6 @@ line-height: 80px;
             
             }
         }
-        @media(max-width:600px){
-            #navbarNav{ 
-                
-                margin-right: 35%;
-                
-                }
-            }
+      
    
         
